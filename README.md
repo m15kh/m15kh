@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liam1550&theme=" alt="liam1550" /></a> </p>
 
 - 🔭 I’m currently working on ****
-- 🌱 I’m currently learning **NLP, Django, Rest, Advanced Python**
+- 🌱 I’m currently learning **, machine learning, Django , Advanced Python**
 - 💬 Ask me about **NLP, Django, Rest, Advanced Python**
 - 📫 How to reach me **mohammad.khalili1515@gmail.com**
 - 📝 I regularly write articles on **https://medium.com/@m15kh10**
