@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on ****
 - 🌱 I’m currently learning **, machine learning, Django , Advanced Python**
-- 💬 Ask me about **NLP, Django, Rest, Advanced Python**
 - 📫 How to reach me **mohammad.khalili1515@gmail.com**
 - 📝 I regularly write articles on **https://medium.com/@m15kh10**
 
