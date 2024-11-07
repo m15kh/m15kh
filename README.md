@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m15kh&theme=" alt="m15kh" /></a> </p>
 
-- 🔭 I’m currently working on ****
-- 🌱 I’m currently learning **, machine learning, Django , Advanced Python**
+- 🔭 I’m currently working on deep learning project ****
 - 📫 How to reach me **mohammad.khalili1515@gmail.com**
 - 📝 I regularly write articles on **https://medium.com/@m15kh10**
 
