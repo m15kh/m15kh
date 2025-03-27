@@ -20,7 +20,20 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="m15kh" height="30" width="40" /></a><a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="15289505" height="30" width="40" /></a><a href="# " target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="m15kh10 " height="30" width="40" /></a><a href="https://medium.com/@m15kh10" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@m15kh10" height="30" width="40" /></a></p>
+  <a href="https://www.linkedin.com/in/m15kh/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="m15kh" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/15289505/mohammad" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="15289505" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/m15kh10" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="m15kh10" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@m15kh10" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@m15kh10" height="30" width="40" />
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
