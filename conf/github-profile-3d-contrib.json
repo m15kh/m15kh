@@ -1,0 +1,20 @@
+[
+    {
+      "type": "normal",
+      "fileName": "profile-dracula.svg",
+      "backgroundColor": "#282a36",
+      "foregroundColor": "#f8f8f2",
+      "strongColor": "#bd93f9",
+      "weakColor": "#44475a",
+      "radarColor": "#ff79c6",
+      "growingAnimation": true,
+      "contribColors": [
+        "#282a36",
+        "#44475a",
+        "#6272a4",
+        "#bd93f9",
+        "#ff79c6"
+      ]
+    }
+  ]
+  
