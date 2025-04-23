@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/m15kh">
-    <img src="https://github-readme-stats.vercel.app/api?username=m15kh&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" width="600" />
+    <img src="https://github-readme-stats.vercel.app/api?username=m15kh&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" width="600" height="200" />
   </a>
 </p>
 
