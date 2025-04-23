@@ -60,10 +60,14 @@
 </div>
 
 
-<a href="https://github.com/m15kh">
-  <img src="https://github-readme-stats.vercel.app/api?username=m15kh&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" width="550" />
-</a>
+<p align="center">
+  <a href="https://github.com/m15kh">
+    <img src="https://github-readme-stats.vercel.app/api?username=m15kh&show_icons=true&hide_border=true&theme=dracula" alt="GitHub Stats" width="600" />
+  </a>
+</p>
 
-<a href="https://github.com/m15kh">
-  <img src="./profile-3d-contrib/profile-dracula.svg" alt="3D Contributions" width="550" />
-</a>
+<p align="center">
+  <a href="https://github.com/m15kh">
+    <img src="./profile-3d-contrib/profile-dracula.svg" alt="3D Contributions" width="600" />
+  </a>
+</p>
