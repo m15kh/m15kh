@@ -57,14 +57,11 @@
 </p>
 
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/m15kh">
-  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=m15kh&show_icons=true&hide_border=true&theme=dracula" alt="m15kh's GitHub stats" width="350" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m15kh&theme=dracula" alt="GitHub Profile Summary" width="350" height="180" />
 </div>
 
-  <img src="./profile-3d-contrib/profile-dracula.svg" alt="3D Contributions – Night Green" width="850" height="400" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m15kh&show_icons=true&hide_border=true&theme=dracula)](https://github.com/m15kh)
+
+<a href="https://github.com/m15kh">
+  <img src="./profile-3d-contrib/profile-dracula.svg" alt="3D Contributions" width="700" />
+</a>
