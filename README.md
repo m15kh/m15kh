@@ -65,5 +65,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m15kh&show_icons=true&hide_border=true&theme=github_dark" alt="m15kh's GitHub stats" width="500" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m15kh&theme=github_dark" alt="GitHub Profile Summary" width="500" height="180" />
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions – Night Green" width="800" height="300" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions – Night Green" width="1000" height="450" />
 </div>
