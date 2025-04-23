@@ -25,7 +25,17 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          
+          # Stash any unstaged changes before pulling
+          git stash -u
+      
+          # Pull with rebase
           git pull --rebase origin main
+          
+          # Apply stashed changes after pulling
+          git stash pop || true
+      
+          # Add and commit changes if any
           git add -A .
           if git diff-index --quiet HEAD; then
             echo "No changes to commit."
