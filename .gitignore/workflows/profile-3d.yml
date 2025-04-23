@@ -28,4 +28,4 @@ jobs:
           else
             git commit -m "generated"
             git push origin main
-          fi
+
