@@ -20,7 +20,11 @@
   <a href="mailto:mohammad.khalili1515@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://gravatar.com/m15kh" target="_blank">
+    <a href="[https://huggingface.co/your_username](https://huggingface.co/m15kh)" target="_blank">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FEA300?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
+  </a>
+
+  <a href="[https://gravatar.com/m15kh](https://m15kh.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/Website-800080?style=for-the-badge&logo=web&logoColor=white">
   </a>
   <a href="https://stackoverflow.com/users/15289505/mohammad" target="_blank">
@@ -32,6 +36,7 @@
   <a href="https://medium.com/@m15kh10" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
+
 </div>
 
 
