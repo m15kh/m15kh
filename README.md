@@ -39,6 +39,9 @@
   <a href="https://medium.com/@mohammadkhalili" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
+    <a href="https://www.reddit.com/user/YOUR_REDDIT_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+  </a>
 </div>
 
 
