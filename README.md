@@ -32,7 +32,7 @@
   <a href="https://www.kaggle.com/m15kh10" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
 
-  <a href="https://www.youtube.com/@YOUR_CHANNEL_USERNAME" target="_blank">
+  <a href="https://www.youtube.com/@thinkmoreenjoymore" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
     </a>
