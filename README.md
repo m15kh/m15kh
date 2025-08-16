@@ -75,8 +75,10 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/m15kh">
     <img src="./profile-3d-contrib/profile-dracula.svg" alt="3D Contributions" width="600" />
   </a>
 </p>
+-->
