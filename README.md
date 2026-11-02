@@ -3,7 +3,7 @@
 
 
 
-- 🎓 I'm an electrical engineering student at K.N.Toosi University of Technology.
+- 🎓 I'm an electrical engineering student at AmirKabir University of Technology.
 - 🔭 I’m currently working on Ai projects.
 - 📫 How to reach me **mohammad.khalili1515@gmail.com**
 
